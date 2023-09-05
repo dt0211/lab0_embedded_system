@@ -2,7 +2,7 @@
  * main.c
  *
  * Created: 04-Sep-23 4:05:24 PM
- *  Author: Khanh Vy
+ *  Author: Dinh Tuyen
  */ 
 
 
